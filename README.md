@@ -8,6 +8,7 @@ Oi, meu nome é Israel e tenho 18 anos. Meu foco é ser desenvolvedor Fullstack 
 <p>🔭 Cursando Ciência da Computação</p>
 <p>🌱 Aprendendo: Python, Javascript, HTML, CSS, Git</p>
 
+
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
@@ -18,10 +19,6 @@ Oi, meu nome é Israel e tenho 18 anos. Meu foco é ser desenvolvedor Fullstack 
 </p>
 
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=Elzin">
-</p>
 
 ## 📊 Github Status
 

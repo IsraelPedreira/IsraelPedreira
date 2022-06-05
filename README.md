@@ -22,7 +22,7 @@ Oi, meu nome é Israel e tenho 18 anos. Meu foco é ser desenvolvedor Fullstack 
 
 ## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Elzin&show_icons=true"><p>
+<img src="https://github-readme-stats.vercel.app/api?username=Elzin&show_icons=true">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elzin&layout=compact"><p>
   
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elzin&layout=compact"><p>

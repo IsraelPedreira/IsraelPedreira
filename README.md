@@ -26,3 +26,11 @@ Oi, meu nome é Israel e tenho 18 anos. Meu foco é ser desenvolvedor Fullstack 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelPedreira&layout=compact&theme=dracula">
 </div> 
 
+<div align="left">
+</div>
+
+###
+
+<img href="https://raw.githubusercontent.com/IsraelPedreira/IsraelPedreira/blob/output/snake.svg" alt="Snake animation" />
+
+###

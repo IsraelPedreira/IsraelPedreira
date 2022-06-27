@@ -22,7 +22,7 @@ Oi, meu nome é Israel e tenho 18 anos. Meu foco é ser desenvolvedor Fullstack 
 
 ## 📊 Github Status
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Elzin&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elzin&layout=compact&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsraelPedreira&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelPedreira&layout=compact&theme=dracula">
 </div> 
 

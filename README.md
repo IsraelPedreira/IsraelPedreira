@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://imgbox.com/XD791j33" alt="my banner">
 
-Oi, meu nome é Israel e tenho 18 anos. Meu foco é ser desenvolvedor Fullstack e atualmente estou aprendendo desenvolvimento web
+Oi, meu nome é Israel e tenho 18 anos. Meu foco é ser desenvolvedor Fullstack e atualmente estou aprendendo React e Typescript
 
 ## 💫 Um Pouco Sobre Mim:
 <p>🔭 Cursando Ciência da Computação</p>

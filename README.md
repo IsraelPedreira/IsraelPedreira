@@ -1,6 +1,6 @@
 # Olá 👋, meu nome é Israel Pedreira
 
-<img width="100%" src="https://imgbox.com/XD791j33" alt="my banner">
+
 
 Oi, meu nome é Israel e tenho 18 anos. Meu foco é ser desenvolvedor Fullstack e atualmente estou aprendendo React e Typescript
 

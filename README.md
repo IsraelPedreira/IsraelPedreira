@@ -2,7 +2,7 @@
 
 
 
-Oi, meu nome é Israel e tenho 18 anos. Meu foco é ser desenvolvedor Fullstack e atualmente estou aprendendo React e Typescript
+Oi, meu nome é Israel e tenho 18 anos. Meu foco é ser desenvolvedor Front-End e atualmente estou aprendendo React e Typescript
 
 ## 💫 Um Pouco Sobre Mim:
 <p>🔭 Cursando Ciência da Computação</p>

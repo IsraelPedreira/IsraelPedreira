@@ -21,9 +21,9 @@ Oi, meu nome é Israel e tenho 18 anos. Meu foco é ser desenvolvedor Front-End 
 
 
 ## 📊 Github Status
-<div>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=IsraelPedreira&show_icons=true&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelPedreira&layout=compact&theme=dracula">
-</div> 
+</p> 
 
 

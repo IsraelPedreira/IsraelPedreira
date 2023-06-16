@@ -6,7 +6,7 @@ Oi, meu nome é Israel e tenho 19 anos. Meu foco é ser desenvolvedor WEB e atua
 
 ## 💫 Um Pouco Sobre Mim:
 <p>🔭 Cursando Ciência da Computação</p>
-<p>🌱 Aprendendo: Python, Javascript, HTML, CSS, React, Git</p>
+<!-- <p>🌱 Aprendendo: Python, Javascript, HTML, CSS, React, Git</p> -->
 
 
 ## 💻 Skills

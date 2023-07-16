@@ -2,7 +2,7 @@
 
 
 
-Oi, meu nome é Israel e tenho 19 anos. Meu foco é ser desenvolvedor WEB e atualmente estou aprendendo React 
+Oi, meu nome é Israel e tenho 19 anos.
 
 ## 💫 Um Pouco Sobre Mim:
 <p>🔭 Cursando Ciência da Computação</p>

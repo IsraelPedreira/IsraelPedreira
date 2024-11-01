@@ -2,12 +2,16 @@
 
 
 
-Oi, meu nome é Israel e tenho 20 anos.
+Oi, meu nome é Israel e tenho 21 anos.
 
 ## 💫 Um Pouco Sobre Mim:
-<p>🔭 Cursando Ciência da Computação</p>
-<!-- <p>🌱 Aprendendo: Python, Javascript, HTML, CSS, React, Git</p> -->
+- <p>🔭 Cursando Ciência da Computação</p>
+- <p>🌱 Aprendendo: NestJS</p>
+- <p>🎶 Música é uma grande parte da minha vida e algo que me inspira no meu dia a dia</p>
 
+## 💡Interesses
+- Desenvolvimento Web
+- Redes e topologias de rede (especialmente com Cisco Packet Tracer)
 
 ## 💻 Skills
 <p align="left">

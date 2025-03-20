@@ -12,6 +12,7 @@ Oi, meu nome é Israel e tenho 21 anos.
 ## 💡Interesses
 - Desenvolvimento Web
 - Redes e topologias de rede (especialmente com Cisco Packet Tracer)
+- Entusiasta da segurança da informação
 
 ## 💻 Skills
 <p align="left">

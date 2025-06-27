@@ -10,9 +10,9 @@ Oi, meu nome é Israel e tenho 21 anos.
 - <p>🎶 Música é uma grande parte da minha vida e algo que me inspira no meu dia a dia</p>
 
 ## 💡Interesses
+- Blockchain e redes de computadores
 - Desenvolvimento Web
-- Redes e topologias de rede (especialmente com Cisco Packet Tracer)
-- Entusiasta da segurança da informação
+- Segurança da informação
 
 ## 💻 Skills
 <p align="left">
